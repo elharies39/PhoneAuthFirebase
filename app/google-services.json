@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "282021256770",
+    "firebase_url": "https://auth-nomor-telepon.firebaseio.com",
+    "project_id": "auth-nomor-telepon",
+    "storage_bucket": "auth-nomor-telepon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282021256770:android:01b5234157e63b05",
+        "android_client_info": {
+          "package_name": "com.elharies.autheticationphonefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282021256770-esr0c0gdag6oak48allbrb8qgjpo0nc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elharies.autheticationphonefirebase",
+            "certificate_hash": "9009d45f50e934206795a06398b438f76ee625db"
+          }
+        },
+        {
+          "client_id": "282021256770-2eulp5b4nff2p9sm6hudm2bjin8pjog3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0jt3r629eoa4cavk9zQ56TA_eTKpcz-E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282021256770-2eulp5b4nff2p9sm6hudm2bjin8pjog3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
